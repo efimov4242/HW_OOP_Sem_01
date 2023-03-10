@@ -1,8 +1,10 @@
-import Task_01.*;
+package Task_01;
 
 public class Main {
     public static void main(String[] args) {
-
+        initData();
+        Program program = new Program();
+        program.printAllProduct();
     }
 
     public static void initData(){
