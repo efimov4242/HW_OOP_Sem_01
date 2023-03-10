@@ -6,4 +6,13 @@ public class Pacifier extends ChildrenProduct{
         super(name, price, amount, unit, minAge, hypoallergenic);
     }
 
+    @Override
+    public String toString() {
+        return "Pacifier{" +
+                "name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
+                '}';
+    }
 }

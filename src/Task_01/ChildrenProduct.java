@@ -14,6 +14,10 @@ public class ChildrenProduct extends Product{
         return "ChildrenProduct{" +
                 "minAge=" + minAge +
                 ", hypoallergenic='" + hypoallergenic + '\'' +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }

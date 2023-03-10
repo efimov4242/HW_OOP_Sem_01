@@ -11,6 +11,10 @@ public class ToiletPaper extends HygieneItems {
     public String toString() {
         return "ToiletPaper{" +
                 "layerCount=" + layerCount +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }

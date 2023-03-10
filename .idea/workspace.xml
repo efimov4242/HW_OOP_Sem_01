@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b375c7-5e3e-471e-88c2-83455137835d" name="Changes" comment="ДЗV02">
+    <list default="true" id="00b375c7-5e3e-471e-88c2-83455137835d" name="Changes" comment="ДЗV03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/ChildrenProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/ChildrenProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Diapers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Diapers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Egg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_01/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_01/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/HygieneItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/HygieneItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Lemonade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Lemonade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Masks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Masks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Pacifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Pacifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/ToiletPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/ToiletPaper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,12 +112,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678434422594</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ДЗV03">
+      <created>1678437424742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678437424742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ДЗ" />
     <MESSAGE value="ДЗV02" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗV02" />
+    <MESSAGE value="ДЗV03" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗV03" />
   </component>
 </project>

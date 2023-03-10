@@ -12,6 +12,10 @@ public class Bread extends Food {
     public String toString() {
         return "Bread{" +
                 "typeOfFlour='" + typeOfFlour + '\'' +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }
