@@ -8,6 +8,10 @@ public class Food extends Product{
         this.bestBefore = bestBefore;
     }
 
+    public String getBestBefore() {
+        return bestBefore;
+    }
+
     @Override
     public String toString() {
         return "Food{" +
