@@ -22,6 +22,10 @@ public class Diapers extends HygieneItems {
                 ", minWeight=" + minWeight +
                 ", maxWeight=" + maxWeight +
                 ", type='" + type + '\'' +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }

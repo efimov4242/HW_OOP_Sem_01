@@ -40,10 +40,10 @@ package Task_01;
 работу метода, созданного в классе Program
 */
 public class Product {
-    private String name;
-    private int price;
-    private int amount;
-    private String unit;
+    protected String name;
+    protected int price;
+    protected int amount;
+    protected String unit;
 
     public Product(){}
     public Product(String name, int price, int amount, String unit) {
@@ -67,6 +67,23 @@ public class Product {
 
     public String getUnit() {
         return unit;
+    }
+
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setPrice(int price) {
+        this.price = price;
+    }
+
+    public void setAmount(int amount) {
+        this.amount = amount;
+    }
+
+    public void setUnit(String unit) {
+        this.unit = unit;
     }
 
     public void productInfo(){

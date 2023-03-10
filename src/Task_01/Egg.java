@@ -13,6 +13,10 @@ public class Egg extends Food {
     public String toString() {
         return "Egg{" +
                 "pieceAmount=" + pieceAmount +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }

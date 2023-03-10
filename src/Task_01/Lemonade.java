@@ -5,5 +5,13 @@ public class Lemonade extends Drink{
         super(name, price, amount, unit, volume);
     }
 
-
+    @Override
+    public String toString() {
+        return "Lemonade{" +
+                "name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
+                '}';
+    }
 }

@@ -12,6 +12,10 @@ public class Milk extends Food {
     public String toString() {
         return "Milk{" +
                 "fat=" + fat +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }

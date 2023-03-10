@@ -12,6 +12,10 @@ public class Drink extends Product{
     public String toString() {
         return "Drink{" +
                 "volume=" + volume +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }

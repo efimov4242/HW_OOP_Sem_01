@@ -12,6 +12,10 @@ public class HygieneItems extends Product{
     public String toString() {
         return "HygieneItems{" +
                 "pieceCount=" + pieceCount +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", amount=" + amount +
+                ", unit='" + unit + '\'' +
                 '}';
     }
 }
